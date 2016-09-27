@@ -1,0 +1,94 @@
+<select id="ClinicId" name="ClinicId" class="select"  selectedname=""     data-autocomplete="true"  >
+
+        <option value="">Wybierz plac&#243;wkę Grupy LUX MED</option>
+          <option class="" value="1035">Endoskopia Szpital LUX MED - Warszawa - Puławska 455</option>
+          <option class="" value="1784">LX Warszawa - 1 Sierpnia 8</option>
+          <option class="" value="1163">LX Warszawa - 17 Stycznia 39</option>
+          <option class="" value="4">LX Warszawa - 17 Stycznia 49</option>
+          <option class="" value="13">LX Warszawa - Al. Jana Pawła II 78</option>
+          <option class="" value="43">LX Warszawa - Al. Jerozolimskie 162</option>
+          <option class="" value="1">LX Warszawa - Al. Jerozolimskie 65/79</option>
+          <option class="" value="45">LX Warszawa - Al. Stan&#243;w Zjednoczonych 72</option>
+          <option class="favourite" value="19">LX Warszawa - Bobrowiecka 1</option>
+          <option class="" value="50">LX Warszawa - Chmielna 85/87</option>
+          <option class="" value="2">LX Warszawa - Domaniewska 41B (Budynek Jupiter - Przychodnia D3 i D4)</option>
+          <option class="" value="44">LX Warszawa - KEN 93</option>
+          <option class="" value="52">LX Warszawa - Migdałowa 4</option>
+          <option class="" value="67">LX Warszawa - Nowogrodzka 45</option>
+          <option class="" value="589">LX Warszawa - Park Postępu 21C</option>
+          <option class="" value="1765">LX Warszawa – Pory 78</option>
+          <option class="" value="90">LX Warszawa - Prosta 51</option>
+          <option class="favourite" value="56">LX Warszawa - Puławska 15</option>
+          <option class="" value="57">LX Warszawa - Racławicka 132B</option>
+          <option class="" value="60">LX Warszawa - Szernera 3</option>
+          <option class="" value="91">LX Warszawa - Taśmowa 7</option>
+          <option class="" value="1389">LX Warszawa - Wołoska 7 (Budynek Mars  - Przychodnia D1 i D2)</option>
+          <option class="" value="1607">LXD Warszawa - Cegłowska 80</option>
+          <option class="" value="1518">LXD Warszawa - Kasprzaka 17 (pawilon 7)</option>
+          <option class="" value="1532">LXD Warszawa - Niekłańska 4/24</option>
+          <option class="" value="1410">LXD Warszawa - Stępińska 19/25</option>
+          <option class="" value="1591">LXD Warszawa - Św. Barbary 6/8</option>
+          <option class="" value="71">MR Piaseczno - Powstańc&#243;w Warszawy 29</option>
+          <option class="" value="74">MR Warszawa - Belgradzka 18</option>
+          <option class="" value="75">MR Warszawa - Gr&#243;jecka 186</option>
+          <option class="" value="76">MR Warszawa - Myśliborska 95</option>
+          <option class="" value="66">MR Warszawa - Św. Barbary 6/8</option>
+          <option class="" value="77">MR Warszawa - Wrocławska 7A</option>
+          <option class="" value="80">MR Warszawa - Wrzeciono 10C</option>
+          <option class="" value="78">MR Warszawa - Żwirki i Wigury 39</option>
+          <option class="" value="1695">PF Dental Warszawa - Al. Jerozolimskie 65/79</option>
+          <option class="" value="1696">PF Dental Warszawa - Al. Stan&#243;w Zjednoczonych 72</option>
+          <option class="" value="847">PF Warszawa - Al. Jerozolimskie 65/79</option>
+          <option class="" value="1595">PF Warszawa - Bobrowiecka 1</option>
+          <option class="" value="1571">PF Warszawa - Domaniewska 41B</option>
+          <option class="" value="824">PF Warszawa - Racławicka 132B</option>
+          <option class="" value="1586">PF Warszawa - Wołoska 7 (Budynek Mars  - Przychodnia D1 i D2)</option>
+          <option class="" value="961">Szpital LUX MED - Warszawa - Puławska 455</option>
+
+  <select id="ServiceId" name="ServiceId" class="select"  selectedname=""     data-autocomplete="true"  >
+
+          <option value="">Wybierz wizytę lub badanie</option>
+            <option class="" value="4387">Konsultacja alergologa</option>
+            <option class="" value="4394">Konsultacja chirurga dzieci</option>
+            <option class="" value="4406">Konsultacja chirurga naczyniowego</option>
+            <option class="" value="4412">Konsultacja chirurga og&#243;lnego</option>
+            <option class="" value="4418">Konsultacja chirurga onkologa</option>
+            <option class="" value="4424">Konsultacja chirurga plastyka</option>
+            <option class="" value="4448">Konsultacja dermatologa</option>
+            <option class="" value="5817">Konsultacja dermatologa - dzieci</option>
+            <option class="" value="4453">Konsultacja diabetologa</option>
+            <option class="" value="4461">Konsultacja endokrynologa</option>
+            <option class="" value="6748">Konsultacja flebologiczna</option>
+            <option class="" value="4468">Konsultacja gastroenterologa</option>
+            <option class="" value="8286">Konsultacja geriatry</option>
+            <option class="" value="4480">Konsultacja ginekologa</option>
+            <option class="" value="4473">Konsultacja ginekologa - endokrynologa</option>
+            <option class="" value="4486">Konsultacja hematologa</option>
+            <option class="" value="4491">Konsultacja hepatologa</option>
+            <option class="" value="7138">Konsultacja immunologa</option>
+            <option class="favourite" value="4502">Konsultacja internisty</option>
+            <option class="" value="4510">Konsultacja kardiologa</option>
+            <option class="" value="4522">Konsultacja laryngologa</option>
+            <option class="" value="4528">Konsultacja lekarza rodzinnego</option>
+            <option class="" value="4534">Konsultacja nefrologa</option>
+            <option class="" value="4540">Konsultacja neurochirurga</option>
+            <option class="" value="4549">Konsultacja neurologa</option>
+            <option class="" value="7056">Konsultacja neurologa - dzieci</option>
+            <option class="" value="4565">Konsultacja okulisty</option>
+            <option class="" value="7681">Konsultacja okulisty - dzieci</option>
+            <option class="" value="4572">Konsultacja onkologa</option>
+            <option class="" value="4436">Konsultacja ortopedy</option>
+            <option class="" value="7678">Konsultacja ortopedy - dzieci</option>
+            <option class="" value="8752">Konsultacja pediatry - szczepienia dzieci do lat 6</option>
+            <option class="" value="7409">Konsultacja pediatry - w gabinecie dzieci chorych</option>
+            <option class="" value="7408">Konsultacja pediatry - w gabinecie dzieci zdrowych</option>
+            <option class="" value="9190">Konsultacja pediatry - w gabinecie dzieci zdrowych - bilans</option>
+            <option class="" value="4430">Konsultacja proktologa</option>
+            <option class="" value="4598">Konsultacja pulmonologa</option>
+            <option class="" value="4604">Konsultacja reumatologa</option>
+            <option class="" value="4614">Konsultacja urologa</option>
+            <option class="" value="4106">Kwalifikacja - do szczepienia dzieci powyżej 6 r.ż.</option>
+            <option class="" value="9756">Um&#243;wienie wizyty na scaling (usuwanie złog&#243;w)</option>
+            <option class="" value="8904">Um&#243;wienie wizyty u chirurga stomatologa</option>
+            <option class="" value="6621">Um&#243;wienie wizyty u stomatologa</option>
+            <option class="" value="8914">Um&#243;wienie wizyty u stomatologa dziecięcego</option>
